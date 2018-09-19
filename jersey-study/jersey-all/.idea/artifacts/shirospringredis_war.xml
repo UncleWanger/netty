@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="shirospringredis:war">
+    <output-path>$PROJECT_DIR$/shirospringredis/target</output-path>
+    <root id="archive" name="shiro-spring-redis.war">
+      <element id="artifact" artifact-name="shirospringredis:war exploded" />
+    </root>
+  </artifact>
+</component>
